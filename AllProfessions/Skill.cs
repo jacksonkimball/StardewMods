@@ -1,4 +1,4 @@
-﻿using SFarmer = StardewValley.Farmer;
+using SFarmer = StardewValley.Farmer;
 
 namespace AllProfessions
 {
